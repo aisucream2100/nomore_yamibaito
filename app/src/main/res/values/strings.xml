@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">no-more-yamibaito</string>
+    <string name="accessibility_description">このサービスは画面上の「闇バイト」に関わる危険なキーワードを検知し、ユーザーに警告を表示するために使用されます。</string>
+</resources>

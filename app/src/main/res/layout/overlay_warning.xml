@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/warning_red"
+    android:clickable="true"
+    android:focusable="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="⚠️"
+            android:textSize="90sp"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="それは、闇バイトの可能性があります。\nすぐにアプリを閉じてください。\n\nもし、応募してしまったら、すぐにスクリーンショットを取り、最寄りの警察署に相談してください。"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_marginBottom="40dp" />
+
+        <Button
+            android:id="@+id/btnCloseOverlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="閉じる"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:backgroundTint="@color/white"
+            style="@style/Widget.AppCompat.Button.Small" />
+
+    </LinearLayout>
+</FrameLayout>
