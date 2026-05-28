@@ -18,7 +18,10 @@ class YamibaitoDetectorService : AccessibilityService() {
     private var isOverlayShowing = false
 
     // 検知対象のブラックリストキーワード
-    private val targetKeywords = listOf("即日", "高額", "簡単", "裏バイト", "闇バイト", "シグナル", "テレグラム")
+    private val targetKeywords = listOf(
+        "即日", "高額", "簡単", "裏バイト", "闇バイト", "シグナル", "テレグラム", "シークレット案件", "DM募集",
+        "運び屋", "安全に稼げる", "受け取るだけ", "UD", "口座売買", "契約代行", "SIM案件", "グレー案件", "絶対に捕まらない"
+    )
 
     override fun onServiceConnected() {
         super.onServiceConnected()
