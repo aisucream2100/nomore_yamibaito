@@ -45,3 +45,8 @@ Google Playストアを介さずにAPKから直接インストールした場合
 - **フィードバックフォームから送信**
   GitHubアカウントをお持ちでない方や、匿名で送りたい方は、以下の専用フォームよりお送りください。
     [no-more-yamibaito フィードバックフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeQURyAN1HpMc4yqg45tfjHnmksG30FCmZGfMfTsvlbH15knQ/viewform?usp=dialog)
+
+
+※悪用禁止
+  MIT LICENSEのため自由に配布できます。
+  （このアプリは「闇バイト」をなくすために作られました。）
