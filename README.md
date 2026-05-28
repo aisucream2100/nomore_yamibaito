@@ -40,7 +40,7 @@ Google Playストアを介さずにAPKから直接インストールした場合
 フィードバックは、以下のいずれかの方法でお寄せください。
 
 - **GitHub Issuesで報告（推奨）**
-  バグの報告や機能要望は、本リポジトリの [Issuesページ](https://github.com/aisucream2100/no-more-yamibaito/issues) から新しいIssueを作成してください。
+  バグの報告や機能要望は、本リポジトリの [Issuesページ](https://github.com/aisucream2100/nomore_yamibaito/issues) から新しいIssueを作成してください。
   
 - **フィードバックフォームから送信**
   GitHubアカウントをお持ちでない方や、匿名で送りたい方は、以下の専用フォームよりお送りください。
