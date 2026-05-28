@@ -50,3 +50,4 @@ Google Playストアを介さずにAPKから直接インストールした場合
 ※悪用禁止
   MIT LICENSEのため自由に配布できます。
   （このアプリは「闇バイト」をなくすために作られました。）
+  Copyright (c) 2026 aisucream2100
